@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popup Menu Demo</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="logout">Logout</string>
+    <string name="default_popup_menu">Default Popup Menu</string>
+    <string name="custom_popup_menu">Custom Popup Menu</string>
+    <string name="custom_styled_menu">Styled Popup Menu</string>
+</resources>

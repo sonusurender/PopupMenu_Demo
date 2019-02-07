@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_contact_us"
+        android:icon="@drawable/ic_contact_phone_black_24dp"
+        android:title="@string/contact_us" />
+    <item
+        android:id="@+id/action_terms_conditions"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="@string/terms_and_conditions" />
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        android:title="@string/logout" />
+
+</menu>
